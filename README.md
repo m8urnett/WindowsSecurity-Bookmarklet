@@ -1,5 +1,5 @@
 # /r/WindowsSecurity Bookmarklet
-Bookmarklet for posting to https://reddit.com/r/WindowsSecurity
+Bookmarklet for posting the current page to https://reddit.com/r/WindowsSecurity
 
 
 Bookmarklet:
