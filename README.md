@@ -11,6 +11,8 @@ javascript:location.href='http://www.reddit.com/r/WindowsSecurity/submit?url='+e
 Here are some instructions on installing a bookmarklet:
 https://mreidsma.github.io/bookmarklets/installing.html
 
+Or to make it easier, go [here](https://s3.amazonaws.com/xa.to/file/WindowsSecurity.htm) and drag the text to your bookmarks bar. 
+
 Also, here's a useful Chrome extension that upvotes all posts on a page:
 https://chrome.google.com/webstore/detail/reddit-upvoter/elhcgdmnchcdopoehgdkejbpcpflbfio?hl=en-US
 
